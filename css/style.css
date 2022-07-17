@@ -511,6 +511,8 @@ span{
 }
 
 @media (max-width: 970px) {
+
+    
     #menu-icon{
         display: block;
     }
@@ -584,9 +586,14 @@ span{
 }
 
 @media (max-width: 540px) {
+
+
+
     .contact .action form input[type="email"]{
         width: 310px;
     }
+
+    
 
     .home-img{
         justify-self: center;
