@@ -6,6 +6,7 @@
     list-style: none;
     text-decoration: none;
     scroll-behavior: smooth;
+    font-size: 62.5%;
 }
 
 :root{
@@ -16,6 +17,7 @@
     --big-font: 5rem;
     --h2-font: 3rem;
     --p-font: 1.1rem;
+    
 }
 
 body {
@@ -595,9 +597,11 @@ span{
     }
     header{
         max-width: 100%;
-        width: 75%;
+        width: 55%;
+        min-width: 320px;
         padding-right: 10px 20px 10px 10px;
     }
+    
     .home{
         max-width: 100%;
         width: 80%;
@@ -615,5 +619,6 @@ span{
         width: 380px;
         height: auto;
     }
+
 }
 
