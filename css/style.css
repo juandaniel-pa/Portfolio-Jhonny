@@ -594,9 +594,11 @@ span{
         width: 310px;
     }
     header{
+        max-width: 100%;
         width: 75%;
     }
     .home{
+        max-width: 100%;
         width: 80%;
     }
 
