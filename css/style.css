@@ -6,7 +6,6 @@
     list-style: none;
     text-decoration: none;
     scroll-behavior: smooth;
-    font-size: 62.5%;
 }
 
 :root{
@@ -597,7 +596,7 @@ span{
     }
     header{
         max-width: 100%;
-        width: 55%;
+        width: 70%;
         min-width: 320px;
         padding-right: 10px 20px 10px 10px;
     }
