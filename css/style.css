@@ -596,6 +596,7 @@ span{
     header{
         max-width: 100%;
         width: 75%;
+        padding-right: 10px 20px 10px 10px;
     }
     .home{
         max-width: 100%;
